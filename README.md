@@ -122,5 +122,5 @@ predict(w1,w2,test)
  ### Input - Output for XOR Gate:
  ![image](https://github.com/Pallavi-Raveendranadreddy/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/blob/0df631e5032a40c04e4a597e61a1b07ebf0fa357/AA.PNG)
 
-** RESULT**
+### RESULT 
 Thus a MLP is implemented for non linear separable problem using Python.
